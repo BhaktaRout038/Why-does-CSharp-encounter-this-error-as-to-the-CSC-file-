@@ -11,6 +11,8 @@ This error often occurs after:
 - Moving or renaming files without updating project references.
 - Corrupt or missing project files.
 
+- in my case:- After performing an SVN update, some files were unexpectedly deleted. To resolve the issue, I removed the deleted file, and everything is working fine now.
+
 ## Steps to Fix the Issue
 
 ### 1. Verify File Locations
